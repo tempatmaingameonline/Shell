@@ -29,7 +29,7 @@ My BioData,
 -
 -
 -
-About the page ( project reference: https://github.com/tempatmaingameonline/C ),
+About the page ( project reference: https://github.com/tempatmaingameonline/Shell ),
 - this page will develop by many/much peoples from my original residence planet, especially the peoples whom original eye balls colour " blue " ( also yellow hair ). In every section ( ie: section I ~ Python tool ~, section II ~ python security ~, etc ), it will fill with at least ( minimum ) 100000000000 scripts/softwares.
 -
 Adios !!!
